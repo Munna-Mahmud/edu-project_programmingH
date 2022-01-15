@@ -1,0 +1,10 @@
+.contact-form{
+    background-image: url("https://images.pexels.com/photos/1184580/pexels-photo-1184580.jpeg?cs=srgb&dl=pexels-feedyourvision-1184580.jpg&fm=jpg"),
+    linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+    height: 780px;
+    width: 100%;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center
+}

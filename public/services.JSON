@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "Students":7532,
+      "picture": "https://images.unsplash.com/photo-1592303637753-ce1e6b8a0ffb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1074&q=80",
+      "Course": "Computer ",
+      "info": "Come along to discover our range of courses, meet our subject specialist tutors, have a look around our facilities and ask as many questions as you like!",
+      "Duration": "4 Years",
+      "Contact": "+01578-378"
+
+    },
+    {
+      "id": 2,
+      "Students":3342,
+      "picture": "https://images.pexels.com/photos/3861431/pexels-photo-3861431.jpeg?cs=srgb&dl=pexels-thisisengineering-3861431.jpg&fm=jpg",
+      "Course": "Chemistry Science",
+      "info": "Come along to discover our range of courses, meet our subject specialist tutors, have a look around our facilities and ask as many questions as you like!",
+      "Duration": "4 Years",
+      "Contact": "+01578-378"
+
+    },
+    {
+      "id": 3,
+      "Students":2823,
+      "picture": "https://images.pexels.com/photos/5212345/pexels-photo-5212345.jpeg?cs=srgb&dl=pexels-max-fischer-5212345.jpg&fm=jpg",
+      "Course": "mathematics",
+      "info": "Come along to discover our range of courses, meet our subject specialist tutors, have a look around our facilities and ask as many questions as you like!",
+      "Duration": "2 Years",
+      "Contact": "+01278-378"
+
+    },
+    {
+      "id": 4,
+      "Students":4022,
+      "picture": "https://images.pexels.com/photos/1720186/pexels-photo-1720186.jpeg?cs=srgb&dl=pexels-pragyan-bezbaruah-1720186.jpg&fm=jpg",
+      "Course": "Drawing ",
+      "info": "Come along to discover our range of courses, meet our subject specialist tutors, have a look around our facilities and ask as many questions as you like!",
+      "Duration": "1 Years",
+      "Contact": "+0878-3978"
+
+    }
+    
+  ]

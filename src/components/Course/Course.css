@@ -1,0 +1,13 @@
+.service-menu{
+    display: grid;
+    grid-template-columns: (1fr, 1fr);
+    grid-column-gap: 20px;
+ 
+}
+.cards-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    text-align: center;
+ padding: 5px;
+    margin-right: 3rem;
+}
